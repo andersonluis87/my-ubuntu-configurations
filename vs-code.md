@@ -3,7 +3,7 @@
 ## Plugins
 Add the following plugins:
 - Dracula: `dracula-theme.theme-dracula`
-- Material Icon Theme: `dracula-theme.theme-dracula`
+- Material Icon Theme: `pkief.material-icon-theme`
 - Color Highlight: `naumovs.color-highlight` 
 - Compareit: `in4margaret.compareit`
 - Docker: `ms-azuretools.vscode-docker`
