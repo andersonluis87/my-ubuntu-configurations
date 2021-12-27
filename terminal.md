@@ -126,12 +126,12 @@ Let's add some very cool plugins to auto-complete, syntax highlighting, auto-sug
 
 First, we need to install Zinit:
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+sh -c "$(curl -fsSL https://git.io/zinit-install)"
 ```
 
 Then, let's open our `~/.zshrc` file again and add the following lines at the end:
 ```
-zinit light zdharma/fast-syntax-highlighting
+zinit light zdharma-continuum/fast-syntax-highlighting
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-completions
 ```
